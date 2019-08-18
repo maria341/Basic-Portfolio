@@ -222,10 +222,21 @@ h1 {
     padding: 0px;
 }
 
+.portfolio {
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    height: 600px; 
+    margin-top: 10px;
+}
+
 h3 {
     color: #ffffff;
     background-color: #4aaaa5;
     width: 90%;
+    text-align: center;
 }
 
 .row {
@@ -245,8 +256,6 @@ footer {
     outline: 10px solid #4aaaa5;
     height: 30px;
 }
-
-
 
 
 
